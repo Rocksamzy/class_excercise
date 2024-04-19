@@ -1,1 +1,3 @@
-console.log(prompt("What is your name"));
+const yourName = prompt("Your name please?");
+
+console.log(yourName);
